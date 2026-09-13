@@ -67,7 +67,8 @@ def _parse_rank_page(html: str, limit: int = 20) -> List[dict]:
         img = item.select_one("img")
         cover = ""
         if img:
-            cover = img.get("src") or img.get("data-src") or ""
+            # 优先 data-src（真实封面）；src 常是站内统一占位图
+            cover = img.get("data-src") or img.get("data-original") or img.get("src") or ""
             if cover.startswith("//"):
                 cover = "https:" + cover
 
