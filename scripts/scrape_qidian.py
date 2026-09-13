@@ -1,4 +1,7 @@
-"""起点中文网公开榜单页抓取（元数据 only）。"""
+"""起点中文网移动端公开榜单页抓取（元数据 only）。
+
+PC www.qidian.com/rank 易被 WAF 拦截；移动端 m.qidian.com/rank/<key> 结构稳定。
+"""
 from __future__ import annotations
 
 import re
@@ -13,54 +16,60 @@ RANK_PAGES = [
     {
         "type": "qidian_yuepiao",
         "name": "起点月票榜",
-        "url": "https://www.qidian.com/rank/yuepiao",
+        "url": "https://m.qidian.com/rank/yuepiao",
     },
     {
         "type": "qidian_hotsales",
         "name": "起点畅销榜",
-        "url": "https://www.qidian.com/rank/hotsales",
+        "url": "https://m.qidian.com/rank/hotsales",
     },
     {
         "type": "qidian_newbook",
         "name": "起点新书榜",
-        "url": "https://www.qidian.com/rank/newauthor",
+        "url": "https://m.qidian.com/rank/newauthor",
     },
 ]
 
 _BOOK_ID_RE = re.compile(r"/book/(\d+)")
 
 
-def _parse_rank_page(html: str, page: dict, limit: int = 20) -> List[dict]:
+def _parse_rank_page(html: str, limit: int = 20) -> List[dict]:
     soup = BeautifulSoup(html, "html.parser")
     books: List[dict] = []
-    rows = soup.select("div.book-list ul li, .rank-list li, .book-img-text ul li")
-    if not rows:
-        rows = soup.select("[data-rank], .book-mid-info")
-
+    # CSS Module 类名带 hash，用属性包含匹配
+    items = soup.select("a[class*='bookItem']")
     seen = set()
     rank = 0
-    for row in rows:
-        a = row.select_one("a[href*='/book/'], h2 a, h4 a, .book-name a")
-        if not a:
+    for item in items:
+        title_el = item.find("h2")
+        if not title_el:
             continue
-        title = a.get_text(strip=True)
-        href = urljoin("https://www.qidian.com", a.get("href") or "")
+        title = title_el.get_text(strip=True)
+        href = urljoin("https://m.qidian.com", item.get("href") or "")
         if not title or href in seen:
             continue
         m = _BOOK_ID_RE.search(href)
         source_id = m.group(1) if m else ""
-        author_el = row.select_one(".author a, .name a, .author")
-        author = author_el.get_text(strip=True) if author_el else ""
-        cat_el = row.select_one(".category, .type")
-        category = cat_el.get_text(strip=True) if cat_el else ""
-        img = row.select_one("img")
+        badge_el = item.select_one("[class*='bookTitleR']")
+        badge = badge_el.get_text(strip=True) if badge_el else ""
+        # 作者 · 分类 · 字数
+        author = ""
+        category = ""
+        for node in item.find_all(["p", "div", "span"]):
+            text = node.get_text(" ", strip=True)
+            if "·" in text and len(text) < 50:
+                parts = [p.strip() for p in text.split("·")]
+                if parts:
+                    author = parts[0]
+                if len(parts) > 1:
+                    category = parts[1]
+                break
+        img = item.select_one("img")
         cover = ""
         if img:
             cover = img.get("src") or img.get("data-src") or ""
             if cover.startswith("//"):
                 cover = "https:" + cover
-        badge_el = row.select_one(".total, .update, .score, .num")
-        badge = badge_el.get_text(strip=True) if badge_el else ""
 
         rank += 1
         seen.add(href)
@@ -87,11 +96,16 @@ def scrape(limit: int = 20) -> List[dict]:
     for page in RANK_PAGES:
         try:
             html = fetch(page["url"], encoding="utf-8")
-            books = _parse_rank_page(html, page, limit=limit)
+            if len(html) < 500:
+                print(f"[qidian] fail {page['type']}: short body ({len(html)}B) possible WAF")
+                continue
+            books = _parse_rank_page(html, limit=limit)
         except Exception as exc:  # noqa: BLE001
             print(f"[qidian] fail {page['type']}: {exc}")
             continue
         if books:
             groups.append({"type": page["type"], "name": page["name"], "books": books})
             print(f"[qidian] {page['type']}: {len(books)}")
+        else:
+            print(f"[qidian] empty parse {page['type']}")
     return groups

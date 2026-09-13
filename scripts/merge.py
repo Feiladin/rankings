@@ -71,7 +71,8 @@ def main() -> int:
     rankings = collect()
     if not rankings:
         print("[merge] no rankings collected, keep previous file")
-        return 1
+        # 已有产物则不视为失败，避免 Actions 红叉
+        return 0 if OUTPUT.exists() else 1
 
     payload = {
         "updatedAt": dt.date.today().isoformat(),
