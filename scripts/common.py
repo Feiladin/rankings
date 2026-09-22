@@ -12,6 +12,12 @@ USER_AGENT = (
     "AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
 )
 
+# 纵横对 iPhone UA 直接 500，必须用桌面 UA
+DESKTOP_USER_AGENT = (
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+)
+
 _session = requests.Session()
 _session.headers.update(
     {
@@ -23,13 +29,19 @@ _session.headers.update(
 _last_fetch_ts = 0.0
 
 
-def fetch(url: str, timeout: int = 15, encoding: Optional[str] = None) -> str:
+def fetch(
+    url: str,
+    timeout: int = 15,
+    encoding: Optional[str] = None,
+    user_agent: Optional[str] = None,
+) -> str:
     """GET 页面文本；站间限速 ≥1s。"""
     global _last_fetch_ts
     wait = 1.0 - (time.time() - _last_fetch_ts)
     if wait > 0:
         time.sleep(wait)
-    resp = _session.get(url, timeout=timeout)
+    headers = {"User-Agent": user_agent} if user_agent else {}
+    resp = _session.get(url, timeout=timeout, headers=headers)
     _last_fetch_ts = time.time()
     resp.raise_for_status()
     if encoding:
