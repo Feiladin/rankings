@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05",
+  "updatedAt": "2026-11-06",
   "rankings": [
     {
       "type": "qidian_yuepiao",
@@ -13,7 +13,7 @@
           "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1050460263/180",
           "bookURL": "https://m.qidian.com/book/1050460263/",
           "description": "",
-          "badge": "2.28万月票",
+          "badge": "2.41万月票",
           "source": "qidian",
           "sourceId": "1050460263"
         },
@@ -25,7 +25,7 @@
           "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1040765595/180",
           "bookURL": "https://m.qidian.com/book/1040765595/",
           "description": "",
-          "badge": "1.89万月票",
+          "badge": "2.05万月票",
           "source": "qidian",
           "sourceId": "1040765595"
         },
@@ -37,7 +37,7 @@
           "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1049898328/180",
           "bookURL": "https://m.qidian.com/book/1049898328/",
           "description": "",
-          "badge": "1.67万月票",
+          "badge": "1.79万月票",
           "source": "qidian",
           "sourceId": "1049898328"
         },
@@ -49,7 +49,7 @@
           "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1035420986/180",
           "bookURL": "https://m.qidian.com/book/1035420986/",
           "description": "",
-          "badge": "1.38万月票",
+          "badge": "1.49万月票",
           "source": "qidian",
           "sourceId": "1035420986"
         },
@@ -61,7 +61,7 @@
           "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1049107474/180",
           "bookURL": "https://m.qidian.com/book/1049107474/",
           "description": "",
-          "badge": "1.31万月票",
+          "badge": "1.42万月票",
           "source": "qidian",
           "sourceId": "1049107474"
         },
@@ -73,21 +73,21 @@
           "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1042256511/180",
           "bookURL": "https://m.qidian.com/book/1042256511/",
           "description": "",
-          "badge": "1.31万月票",
+          "badge": "1.39万月票",
           "source": "qidian",
           "sourceId": "1042256511"
         },
         {
           "rank": 7,
-          "title": "剑烛大荒",
-          "author": "爱潜水的乌贼",
-          "category": "玄幻",
-          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1048862481/180",
-          "bookURL": "https://m.qidian.com/book/1048862481/",
+          "title": "廓晋",
+          "author": "榴弹怕水",
+          "category": "历史",
+          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1047881102/180",
+          "bookURL": "https://m.qidian.com/book/1047881102/",
           "description": "",
-          "badge": "1.07万月票",
+          "badge": "1.25万月票",
           "source": "qidian",
-          "sourceId": "1048862481"
+          "sourceId": "1047881102"
         },
         {
           "rank": 8,
@@ -97,45 +97,45 @@
           "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1049003034/180",
           "bookURL": "https://m.qidian.com/book/1049003034/",
           "description": "",
-          "badge": "1.05万月票",
+          "badge": "1.18万月票",
           "source": "qidian",
           "sourceId": "1049003034"
         },
         {
           "rank": 9,
-          "title": "廓晋",
-          "author": "榴弹怕水",
-          "category": "历史",
-          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1047881102/180",
-          "bookURL": "https://m.qidian.com/book/1047881102/",
+          "title": "剑烛大荒",
+          "author": "爱潜水的乌贼",
+          "category": "玄幻",
+          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1048862481/180",
+          "bookURL": "https://m.qidian.com/book/1048862481/",
           "description": "",
-          "badge": "9376月票",
+          "badge": "1.13万月票",
           "source": "qidian",
-          "sourceId": "1047881102"
+          "sourceId": "1048862481"
         },
         {
           "rank": 10,
-          "title": "诡秘之主",
-          "author": "爱潜水的乌贼",
-          "category": "玄幻",
-          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1010868264/180",
-          "bookURL": "https://m.qidian.com/book/1010868264/",
-          "description": "",
-          "badge": "8079月票",
-          "source": "qidian",
-          "sourceId": "1010868264"
-        },
-        {
-          "rank": 11,
           "title": "武道！",
           "author": "田隶",
           "category": "玄幻",
           "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1049534879/180",
           "bookURL": "https://m.qidian.com/book/1049534879/",
           "description": "",
-          "badge": "7502月票",
+          "badge": "9473月票",
           "source": "qidian",
           "sourceId": "1049534879"
+        },
+        {
+          "rank": 11,
+          "title": "诡秘之主",
+          "author": "爱潜水的乌贼",
+          "category": "玄幻",
+          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1010868264/180",
+          "bookURL": "https://m.qidian.com/book/1010868264/",
+          "description": "",
+          "badge": "8934月票",
+          "source": "qidian",
+          "sourceId": "1010868264"
         },
         {
           "rank": 12,
@@ -145,7 +145,7 @@
           "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1044896207/180",
           "bookURL": "https://m.qidian.com/book/1044896207/",
           "description": "",
-          "badge": "7488月票",
+          "badge": "8342月票",
           "source": "qidian",
           "sourceId": "1044896207"
         },
@@ -157,21 +157,21 @@
           "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1039689097/180",
           "bookURL": "https://m.qidian.com/book/1039689097/",
           "description": "",
-          "badge": "7391月票",
+          "badge": "7641月票",
           "source": "qidian",
           "sourceId": "1039689097"
         },
         {
           "rank": 14,
-          "title": "姐姐，我也要一起当女仆吗？",
-          "author": "电子熊猫",
-          "category": "轻小说",
-          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1045463939/180",
-          "bookURL": "https://m.qidian.com/book/1045463939/",
+          "title": "青山",
+          "author": "会说话的肘子",
+          "category": "玄幻",
+          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1033014772/180",
+          "bookURL": "https://m.qidian.com/book/1033014772/",
           "description": "",
-          "badge": "6738月票",
+          "badge": "7423月票",
           "source": "qidian",
-          "sourceId": "1045463939"
+          "sourceId": "1033014772"
         },
         {
           "rank": 15,
@@ -181,45 +181,45 @@
           "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1041604040/180",
           "bookURL": "https://m.qidian.com/book/1041604040/",
           "description": "",
-          "badge": "6598月票",
+          "badge": "7419月票",
           "source": "qidian",
           "sourceId": "1041604040"
         },
         {
           "rank": 16,
-          "title": "青山",
-          "author": "会说话的肘子",
-          "category": "玄幻",
-          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1033014772/180",
-          "bookURL": "https://m.qidian.com/book/1033014772/",
+          "title": "姐姐，我也要一起当女仆吗？",
+          "author": "电子熊猫",
+          "category": "轻小说",
+          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1045463939/180",
+          "bookURL": "https://m.qidian.com/book/1045463939/",
           "description": "",
-          "badge": "6560月票",
+          "badge": "7356月票",
           "source": "qidian",
-          "sourceId": "1033014772"
+          "sourceId": "1045463939"
         },
         {
           "rank": 17,
-          "title": "万朝之劫",
-          "author": "余弦公式",
-          "category": "游戏",
-          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1046770618/180",
-          "bookURL": "https://m.qidian.com/book/1046770618/",
-          "description": "",
-          "badge": "6258月票",
-          "source": "qidian",
-          "sourceId": "1046770618"
-        },
-        {
-          "rank": 18,
           "title": "1984：从川菜馆开始",
           "author": "轻语江湖",
           "category": "都市",
           "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1044818845/180",
           "bookURL": "https://m.qidian.com/book/1044818845/",
           "description": "",
-          "badge": "6069月票",
+          "badge": "6945月票",
           "source": "qidian",
           "sourceId": "1044818845"
+        },
+        {
+          "rank": 18,
+          "title": "万朝之劫",
+          "author": "余弦公式",
+          "category": "游戏",
+          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1046770618/180",
+          "bookURL": "https://m.qidian.com/book/1046770618/",
+          "description": "",
+          "badge": "6651月票",
+          "source": "qidian",
+          "sourceId": "1046770618"
         },
         {
           "rank": 19,
@@ -229,7 +229,7 @@
           "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1040840487/180",
           "bookURL": "https://m.qidian.com/book/1040840487/",
           "description": "",
-          "badge": "5610月票",
+          "badge": "6345月票",
           "source": "qidian",
           "sourceId": "1040840487"
         },
@@ -241,7 +241,7 @@
           "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1050032171/180",
           "bookURL": "https://m.qidian.com/book/1050032171/",
           "description": "",
-          "badge": "5495月票",
+          "badge": "5984月票",
           "source": "qidian",
           "sourceId": "1050032171"
         }
@@ -253,15 +253,15 @@
       "books": [
         {
           "rank": 1,
-          "title": "我真没想重生啊",
-          "author": "柳岸花又明",
-          "category": "都市",
-          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1015648531/180",
-          "bookURL": "https://m.qidian.com/book/1015648531/",
+          "title": "放开那个女巫",
+          "author": "二目",
+          "category": "奇幻",
+          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1003306811/180",
+          "bookURL": "https://m.qidian.com/book/1003306811/",
           "description": "",
           "badge": "",
           "source": "qidian",
-          "sourceId": "1015648531"
+          "sourceId": "1003306811"
         },
         {
           "rank": 2,
@@ -289,18 +289,6 @@
         },
         {
           "rank": 4,
-          "title": "没钱修什么仙？",
-          "author": "熊狼狗",
-          "category": "仙侠",
-          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1042256511/180",
-          "bookURL": "https://m.qidian.com/book/1042256511/",
-          "description": "",
-          "badge": "",
-          "source": "qidian",
-          "sourceId": "1042256511"
-        },
-        {
-          "rank": 5,
           "title": "玄鉴仙族",
           "author": "季越人",
           "category": "仙侠",
@@ -312,19 +300,19 @@
           "sourceId": "1035420986"
         },
         {
-          "rank": 6,
-          "title": "以神通之名",
-          "author": "猪心虾仁",
-          "category": "都市",
-          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1044896207/180",
-          "bookURL": "https://m.qidian.com/book/1044896207/",
+          "rank": 5,
+          "title": "我的模拟长生路",
+          "author": "愤怒的乌贼",
+          "category": "仙侠",
+          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1033422902/180",
+          "bookURL": "https://m.qidian.com/book/1033422902/",
           "description": "",
           "badge": "",
           "source": "qidian",
-          "sourceId": "1044896207"
+          "sourceId": "1033422902"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "武道！",
           "author": "田隶",
           "category": "玄幻",
@@ -336,103 +324,7 @@
           "sourceId": "1049534879"
         },
         {
-          "rank": 8,
-          "title": "青山",
-          "author": "会说话的肘子",
-          "category": "玄幻",
-          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1033014772/180",
-          "bookURL": "https://m.qidian.com/book/1033014772/",
-          "description": "",
-          "badge": "",
-          "source": "qidian",
-          "sourceId": "1033014772"
-        },
-        {
-          "rank": 9,
-          "title": "请勿高考时渡劫",
-          "author": "最白的乌鸦",
-          "category": "都市",
-          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1049898328/180",
-          "bookURL": "https://m.qidian.com/book/1049898328/",
-          "description": "",
-          "badge": "",
-          "source": "qidian",
-          "sourceId": "1049898328"
-        },
-        {
-          "rank": 10,
-          "title": "让仙门再次伟大",
-          "author": "鹤守月满池",
-          "category": "玄幻",
-          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1049107474/180",
-          "bookURL": "https://m.qidian.com/book/1049107474/",
-          "description": "",
-          "badge": "",
-          "source": "qidian",
-          "sourceId": "1049107474"
-        },
-        {
-          "rank": 11,
-          "title": "剑烛大荒",
-          "author": "爱潜水的乌贼",
-          "category": "玄幻",
-          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1048862481/180",
-          "bookURL": "https://m.qidian.com/book/1048862481/",
-          "description": "",
-          "badge": "",
-          "source": "qidian",
-          "sourceId": "1048862481"
-        },
-        {
-          "rank": 12,
-          "title": "原来我是仙道天骄",
-          "author": "醋六香",
-          "category": "仙侠",
-          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1050032171/180",
-          "bookURL": "https://m.qidian.com/book/1050032171/",
-          "description": "",
-          "badge": "",
-          "source": "qidian",
-          "sourceId": "1050032171"
-        },
-        {
-          "rank": 13,
-          "title": "1984：从川菜馆开始",
-          "author": "轻语江湖",
-          "category": "都市",
-          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1044818845/180",
-          "bookURL": "https://m.qidian.com/book/1044818845/",
-          "description": "",
-          "badge": "",
-          "source": "qidian",
-          "sourceId": "1044818845"
-        },
-        {
-          "rank": 14,
-          "title": "天才俱乐部",
-          "author": "城城与蝉",
-          "category": "科幻",
-          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1037762892/180",
-          "bookURL": "https://m.qidian.com/book/1037762892/",
-          "description": "",
-          "badge": "",
-          "source": "qidian",
-          "sourceId": "1037762892"
-        },
-        {
-          "rank": 15,
-          "title": "捞尸人",
-          "author": "纯洁滴小龙",
-          "category": "都市",
-          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1041637443/180",
-          "bookURL": "https://m.qidian.com/book/1041637443/",
-          "description": "",
-          "badge": "",
-          "source": "qidian",
-          "sourceId": "1041637443"
-        },
-        {
-          "rank": 16,
+          "rank": 7,
           "title": "廓晋",
           "author": "榴弹怕水",
           "category": "历史",
@@ -444,16 +336,124 @@
           "sourceId": "1047881102"
         },
         {
-          "rank": 17,
-          "title": "我的魔法没有上限！",
-          "author": "瑟瑟发抖梨花猫",
-          "category": "奇幻",
-          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1040840487/180",
-          "bookURL": "https://m.qidian.com/book/1040840487/",
+          "rank": 8,
+          "title": "以神通之名",
+          "author": "猪心虾仁",
+          "category": "都市",
+          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1044896207/180",
+          "bookURL": "https://m.qidian.com/book/1044896207/",
           "description": "",
           "badge": "",
           "source": "qidian",
-          "sourceId": "1040840487"
+          "sourceId": "1044896207"
+        },
+        {
+          "rank": 9,
+          "title": "没钱修什么仙？",
+          "author": "熊狼狗",
+          "category": "仙侠",
+          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1042256511/180",
+          "bookURL": "https://m.qidian.com/book/1042256511/",
+          "description": "",
+          "badge": "",
+          "source": "qidian",
+          "sourceId": "1042256511"
+        },
+        {
+          "rank": 10,
+          "title": "青山",
+          "author": "会说话的肘子",
+          "category": "玄幻",
+          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1033014772/180",
+          "bookURL": "https://m.qidian.com/book/1033014772/",
+          "description": "",
+          "badge": "",
+          "source": "qidian",
+          "sourceId": "1033014772"
+        },
+        {
+          "rank": 11,
+          "title": "请勿高考时渡劫",
+          "author": "最白的乌鸦",
+          "category": "都市",
+          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1049898328/180",
+          "bookURL": "https://m.qidian.com/book/1049898328/",
+          "description": "",
+          "badge": "",
+          "source": "qidian",
+          "sourceId": "1049898328"
+        },
+        {
+          "rank": 12,
+          "title": "剑烛大荒",
+          "author": "爱潜水的乌贼",
+          "category": "玄幻",
+          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1048862481/180",
+          "bookURL": "https://m.qidian.com/book/1048862481/",
+          "description": "",
+          "badge": "",
+          "source": "qidian",
+          "sourceId": "1048862481"
+        },
+        {
+          "rank": 13,
+          "title": "让仙门再次伟大",
+          "author": "鹤守月满池",
+          "category": "玄幻",
+          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1049107474/180",
+          "bookURL": "https://m.qidian.com/book/1049107474/",
+          "description": "",
+          "badge": "",
+          "source": "qidian",
+          "sourceId": "1049107474"
+        },
+        {
+          "rank": 14,
+          "title": "有仙则名",
+          "author": "金色茉莉花",
+          "category": "轻小说",
+          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1049003034/180",
+          "bookURL": "https://m.qidian.com/book/1049003034/",
+          "description": "",
+          "badge": "",
+          "source": "qidian",
+          "sourceId": "1049003034"
+        },
+        {
+          "rank": 15,
+          "title": "1984：从川菜馆开始",
+          "author": "轻语江湖",
+          "category": "都市",
+          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1044818845/180",
+          "bookURL": "https://m.qidian.com/book/1044818845/",
+          "description": "",
+          "badge": "",
+          "source": "qidian",
+          "sourceId": "1044818845"
+        },
+        {
+          "rank": 16,
+          "title": "诳言法师的十三试炼",
+          "author": "王子2326",
+          "category": "轻小说",
+          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1048302379/180",
+          "bookURL": "https://m.qidian.com/book/1048302379/",
+          "description": "",
+          "badge": "",
+          "source": "qidian",
+          "sourceId": "1048302379"
+        },
+        {
+          "rank": 17,
+          "title": "原来我是仙道天骄",
+          "author": "醋六香",
+          "category": "仙侠",
+          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1050032171/180",
+          "bookURL": "https://m.qidian.com/book/1050032171/",
+          "description": "",
+          "badge": "",
+          "source": "qidian",
+          "sourceId": "1050032171"
         },
         {
           "rank": 18,
@@ -469,27 +469,27 @@
         },
         {
           "rank": 19,
-          "title": "星河之主",
-          "author": "烽仙",
-          "category": "玄幻",
-          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1047654482/180",
-          "bookURL": "https://m.qidian.com/book/1047654482/",
+          "title": "捞尸人",
+          "author": "纯洁滴小龙",
+          "category": "都市",
+          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1041637443/180",
+          "bookURL": "https://m.qidian.com/book/1041637443/",
           "description": "",
           "badge": "",
           "source": "qidian",
-          "sourceId": "1047654482"
+          "sourceId": "1041637443"
         },
         {
           "rank": 20,
-          "title": "我在美国搞内战",
-          "author": "捕梦者",
-          "category": "都市",
-          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1047777980/180",
-          "bookURL": "https://m.qidian.com/book/1047777980/",
+          "title": "我的魔法没有上限！",
+          "author": "瑟瑟发抖梨花猫",
+          "category": "奇幻",
+          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1040840487/180",
+          "bookURL": "https://m.qidian.com/book/1040840487/",
           "description": "",
           "badge": "",
           "source": "qidian",
-          "sourceId": "1047777980"
+          "sourceId": "1040840487"
         }
       ]
     },
@@ -523,18 +523,6 @@
         },
         {
           "rank": 3,
-          "title": "全人类都登录了，只有我能退出",
-          "author": "北烛SR",
-          "category": "科幻",
-          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1051116814/180",
-          "bookURL": "https://m.qidian.com/book/1051116814/",
-          "description": "",
-          "badge": "",
-          "source": "qidian",
-          "sourceId": "1051116814"
-        },
-        {
-          "rank": 4,
           "title": "超人文明二战求生指北",
           "author": "大王酸酱鱿",
           "category": "轻小说",
@@ -544,6 +532,18 @@
           "badge": "",
           "source": "qidian",
           "sourceId": "1051113356"
+        },
+        {
+          "rank": 4,
+          "title": "全人类都登录了，只有我能退出",
+          "author": "北烛SR",
+          "category": "科幻",
+          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1051116814/180",
+          "bookURL": "https://m.qidian.com/book/1051116814/",
+          "description": "",
+          "badge": "",
+          "source": "qidian",
+          "sourceId": "1051116814"
         },
         {
           "rank": 5,
@@ -571,6 +571,18 @@
         },
         {
           "rank": 7,
+          "title": "东京：从被收养开始",
+          "author": "我叫方俊锋",
+          "category": "轻小说",
+          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1049703279/180",
+          "bookURL": "https://m.qidian.com/book/1049703279/",
+          "description": "",
+          "badge": "",
+          "source": "qidian",
+          "sourceId": "1049703279"
+        },
+        {
+          "rank": 8,
           "title": "拍戏刚火，又让我去打网球？",
           "author": "从头开始小夏",
           "category": "都市",
@@ -580,18 +592,6 @@
           "badge": "",
           "source": "qidian",
           "sourceId": "1051096069"
-        },
-        {
-          "rank": 8,
-          "title": "我的魔法导师来自各次元",
-          "author": "这竟然是一个笔名",
-          "category": "轻小说",
-          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1051237771/180",
-          "bookURL": "https://m.qidian.com/book/1051237771/",
-          "description": "",
-          "badge": "",
-          "source": "qidian",
-          "sourceId": "1051237771"
         },
         {
           "rank": 9,
@@ -607,15 +607,15 @@
         },
         {
           "rank": 10,
-          "title": "东京：从被收养开始",
-          "author": "我叫方俊锋",
+          "title": "我的魔法导师来自各次元",
+          "author": "这竟然是一个笔名",
           "category": "轻小说",
-          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1049703279/180",
-          "bookURL": "https://m.qidian.com/book/1049703279/",
+          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1051237771/180",
+          "bookURL": "https://m.qidian.com/book/1051237771/",
           "description": "",
           "badge": "",
           "source": "qidian",
-          "sourceId": "1049703279"
+          "sourceId": "1051237771"
         },
         {
           "rank": 11,
@@ -655,15 +655,15 @@
         },
         {
           "rank": 14,
-          "title": "人在型月：从创造科学怪人开始",
-          "author": "别死了就行",
+          "title": "谁在造谣我和她们友情变质啦",
+          "author": "水花澄",
           "category": "轻小说",
-          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1051391020/180",
-          "bookURL": "https://m.qidian.com/book/1051391020/",
+          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1051308255/180",
+          "bookURL": "https://m.qidian.com/book/1051308255/",
           "description": "",
           "badge": "",
           "source": "qidian",
-          "sourceId": "1051391020"
+          "sourceId": "1051308255"
         },
         {
           "rank": 15,
@@ -679,15 +679,15 @@
         },
         {
           "rank": 16,
-          "title": "谁在造谣我和她们友情变质啦",
-          "author": "水花澄",
+          "title": "人在型月：从创造科学怪人开始",
+          "author": "别死了就行",
           "category": "轻小说",
-          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1051308255/180",
-          "bookURL": "https://m.qidian.com/book/1051308255/",
+          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1051391020/180",
+          "bookURL": "https://m.qidian.com/book/1051391020/",
           "description": "",
           "badge": "",
           "source": "qidian",
-          "sourceId": "1051308255"
+          "sourceId": "1051391020"
         },
         {
           "rank": 17,
@@ -715,18 +715,6 @@
         },
         {
           "rank": 19,
-          "title": "洪荒种田：开天第一道光",
-          "author": "滴茶",
-          "category": "玄幻",
-          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1050896691/180",
-          "bookURL": "https://m.qidian.com/book/1050896691/",
-          "description": "",
-          "badge": "",
-          "source": "qidian",
-          "sourceId": "1050896691"
-        },
-        {
-          "rank": 20,
           "title": "北宋：朕真没想当官家",
           "author": "虚舟何系",
           "category": "历史",
@@ -736,6 +724,18 @@
           "badge": "",
           "source": "qidian",
           "sourceId": "1051211744"
+        },
+        {
+          "rank": 20,
+          "title": "洪荒种田：开天第一道光",
+          "author": "滴茶",
+          "category": "玄幻",
+          "coverURL": "https://bookcover.yuewen.com/qdbimg/349573/1050896691/180",
+          "bookURL": "https://m.qidian.com/book/1050896691/",
+          "description": "",
+          "badge": "",
+          "source": "qidian",
+          "sourceId": "1050896691"
         }
       ]
     },
@@ -751,7 +751,7 @@
           "coverURL": "https://revo.zongheng.com/www/2024/images/1940777.png",
           "bookURL": "https://www.zongheng.com/detail/1336976",
           "description": "",
-          "badge": "10244",
+          "badge": "12792",
           "source": "zongheng",
           "sourceId": "1336976"
         },
@@ -763,7 +763,7 @@
           "coverURL": "https://revo.zongheng.com/www/2024/images/e452c9d.png",
           "bookURL": "https://www.zongheng.com/detail/1435440",
           "description": "",
-          "badge": "5358",
+          "badge": "5432",
           "source": "zongheng",
           "sourceId": "1435440"
         },
@@ -775,7 +775,7 @@
           "coverURL": "https://revo.zongheng.com/www/2024/images/65b1446.png",
           "bookURL": "https://www.zongheng.com/detail/1472092",
           "description": "",
-          "badge": "2847",
+          "badge": "2894",
           "source": "zongheng",
           "sourceId": "1472092"
         },
@@ -787,7 +787,7 @@
           "coverURL": "",
           "bookURL": "https://www.zongheng.com/detail/1610880",
           "description": "",
-          "badge": "1910",
+          "badge": "2648",
           "source": "zongheng",
           "sourceId": "1610880"
         },
@@ -799,33 +799,33 @@
           "coverURL": "",
           "bookURL": "https://www.zongheng.com/detail/1385191",
           "description": "",
-          "badge": "1746",
+          "badge": "1873",
           "source": "zongheng",
           "sourceId": "1385191"
         },
         {
           "rank": 6,
-          "title": "最强狂兵Ⅱ：黑暗荣耀",
-          "author": "",
-          "category": "",
-          "coverURL": "",
-          "bookURL": "https://www.zongheng.com/detail/1366535",
-          "description": "",
-          "badge": "1552",
-          "source": "zongheng",
-          "sourceId": "1366535"
-        },
-        {
-          "rank": 7,
           "title": "太荒吞天诀",
           "author": "",
           "category": "",
           "coverURL": "",
           "bookURL": "https://www.zongheng.com/detail/916691",
           "description": "",
-          "badge": "1473",
+          "badge": "1649",
           "source": "zongheng",
           "sourceId": "916691"
+        },
+        {
+          "rank": 7,
+          "title": "最强狂兵Ⅱ：黑暗荣耀",
+          "author": "",
+          "category": "",
+          "coverURL": "",
+          "bookURL": "https://www.zongheng.com/detail/1366535",
+          "description": "",
+          "badge": "1647",
+          "source": "zongheng",
+          "sourceId": "1366535"
         },
         {
           "rank": 8,
@@ -835,7 +835,7 @@
           "coverURL": "",
           "bookURL": "https://www.zongheng.com/detail/1552353",
           "description": "",
-          "badge": "935",
+          "badge": "989",
           "source": "zongheng",
           "sourceId": "1552353"
         },
@@ -847,7 +847,7 @@
           "coverURL": "",
           "bookURL": "https://www.zongheng.com/detail/1412188",
           "description": "",
-          "badge": "767",
+          "badge": "803",
           "source": "zongheng",
           "sourceId": "1412188"
         },
@@ -859,7 +859,7 @@
           "coverURL": "",
           "bookURL": "https://www.zongheng.com/detail/1589055",
           "description": "",
-          "badge": "684",
+          "badge": "728",
           "source": "zongheng",
           "sourceId": "1589055"
         },
@@ -907,7 +907,7 @@
           "coverURL": "",
           "bookURL": "https://www.zongheng.com/detail/1415876",
           "description": "",
-          "badge": "10 天黑请点灯",
+          "badge": "09 天黑请点灯",
           "source": "zongheng",
           "sourceId": "1415876"
         }
@@ -925,7 +925,7 @@
           "coverURL": "https://revo.zongheng.com/www/2024/images/1940777.png",
           "bookURL": "https://www.zongheng.com/detail/1631264",
           "description": "",
-          "badge": "9315",
+          "badge": "11352",
           "source": "zongheng",
           "sourceId": "1631264"
         },
@@ -937,7 +937,7 @@
           "coverURL": "https://revo.zongheng.com/www/2024/images/e452c9d.png",
           "bookURL": "https://www.zongheng.com/detail/1619144",
           "description": "",
-          "badge": "7002",
+          "badge": "8661",
           "source": "zongheng",
           "sourceId": "1619144"
         },
@@ -949,7 +949,7 @@
           "coverURL": "https://revo.zongheng.com/www/2024/images/65b1446.png",
           "bookURL": "https://www.zongheng.com/detail/1628389",
           "description": "",
-          "badge": "5690",
+          "badge": "6944",
           "source": "zongheng",
           "sourceId": "1628389"
         },
@@ -961,7 +961,7 @@
           "coverURL": "",
           "bookURL": "https://www.zongheng.com/detail/1628213",
           "description": "",
-          "badge": "4959",
+          "badge": "5991",
           "source": "zongheng",
           "sourceId": "1628213"
         },
@@ -973,7 +973,7 @@
           "coverURL": "",
           "bookURL": "https://www.zongheng.com/detail/1638920",
           "description": "",
-          "badge": "4184",
+          "badge": "5523",
           "source": "zongheng",
           "sourceId": "1638920"
         },
@@ -985,7 +985,7 @@
           "coverURL": "",
           "bookURL": "https://www.zongheng.com/detail/1631526",
           "description": "",
-          "badge": "3933",
+          "badge": "4946",
           "source": "zongheng",
           "sourceId": "1631526"
         },
@@ -997,45 +997,45 @@
           "coverURL": "",
           "bookURL": "https://www.zongheng.com/detail/1626620",
           "description": "",
-          "badge": "3804",
+          "badge": "4751",
           "source": "zongheng",
           "sourceId": "1626620"
         },
         {
           "rank": 8,
+          "title": "你说这红鞋能娶媳妇，没说不是人啊",
+          "author": "",
+          "category": "",
+          "coverURL": "",
+          "bookURL": "https://www.zongheng.com/detail/1640702",
+          "description": "",
+          "badge": "4524",
+          "source": "zongheng",
+          "sourceId": "1640702"
+        },
+        {
+          "rank": 9,
           "title": "都市逆袭，我能看见死亡倒计时",
           "author": "",
           "category": "",
           "coverURL": "",
           "bookURL": "https://www.zongheng.com/detail/1636102",
           "description": "",
-          "badge": "3357",
+          "badge": "4132",
           "source": "zongheng",
           "sourceId": "1636102"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "谋唐篡魏",
           "author": "",
           "category": "",
           "coverURL": "",
           "bookURL": "https://www.zongheng.com/detail/1635998",
           "description": "",
-          "badge": "3322",
+          "badge": "4100",
           "source": "zongheng",
           "sourceId": "1635998"
-        },
-        {
-          "rank": 10,
-          "title": "杀穿乱世，从流民到最强武神！",
-          "author": "",
-          "category": "",
-          "coverURL": "",
-          "bookURL": "https://www.zongheng.com/detail/1636407",
-          "description": "",
-          "badge": "3231",
-          "source": "zongheng",
-          "sourceId": "1636407"
         },
         {
           "rank": 11,
@@ -1051,10 +1051,22 @@
         },
         {
           "rank": 12,
-          "title": "刚查出肝癌晚期，系统就让我败光一千亿",
+          "title": "趁校花一贫如洗，忽悠她以身相许",
           "author": "",
           "category": "",
           "coverURL": "https://revo.zongheng.com/www/2024/images/e452c9d.png",
+          "bookURL": "https://www.zongheng.com/detail/1578595",
+          "description": "",
+          "badge": "趁校花一贫如洗，忽悠她以身相许",
+          "source": "zongheng",
+          "sourceId": "1578595"
+        },
+        {
+          "rank": 13,
+          "title": "刚查出肝癌晚期，系统就让我败光一千亿",
+          "author": "",
+          "category": "",
+          "coverURL": "https://revo.zongheng.com/www/2024/images/65b1446.png",
           "bookURL": "https://www.zongheng.com/detail/1582383",
           "description": "",
           "badge": "刚查出肝癌晚期，系统就让我败光一千亿",
@@ -1062,64 +1074,52 @@
           "sourceId": "1582383"
         },
         {
-          "rank": 13,
-          "title": "我一侯府贱奴，怎么就权倾天下了？",
-          "author": "",
-          "category": "",
-          "coverURL": "https://revo.zongheng.com/www/2024/images/65b1446.png",
-          "bookURL": "https://www.zongheng.com/detail/1585295",
-          "description": "",
-          "badge": "我一侯府贱奴，怎么就权倾天下了？",
-          "source": "zongheng",
-          "sourceId": "1585295"
-        },
-        {
           "rank": 14,
-          "title": "我给顶流当私人医生，她求我保密！",
-          "author": "",
-          "category": "",
-          "coverURL": "",
-          "bookURL": "https://www.zongheng.com/detail/1593989",
-          "description": "",
-          "badge": "04 我给顶流当私人医生，她求我保密！",
-          "source": "zongheng",
-          "sourceId": "1593989"
-        },
-        {
-          "rank": 15,
-          "title": "边军悍卒：被逐出家门后，我君临天下！",
-          "author": "",
-          "category": "",
-          "coverURL": "",
-          "bookURL": "https://www.zongheng.com/detail/1585126",
-          "description": "",
-          "badge": "05 边军悍卒：被逐出家门后，我君临天下！",
-          "source": "zongheng",
-          "sourceId": "1585126"
-        },
-        {
-          "rank": 16,
-          "title": "趁校花一贫如洗，忽悠她以身相许",
-          "author": "",
-          "category": "",
-          "coverURL": "",
-          "bookURL": "https://www.zongheng.com/detail/1578595",
-          "description": "",
-          "badge": "06 趁校花一贫如洗，忽悠她以身相许",
-          "source": "zongheng",
-          "sourceId": "1578595"
-        },
-        {
-          "rank": 17,
           "title": "重生1999：重启火星计划",
           "author": "",
           "category": "",
           "coverURL": "",
           "bookURL": "https://www.zongheng.com/detail/1587075",
           "description": "",
-          "badge": "07 重生1999：重启火星计划",
+          "badge": "04 重生1999：重启火星计划",
           "source": "zongheng",
           "sourceId": "1587075"
+        },
+        {
+          "rank": 15,
+          "title": "我一侯府贱奴，怎么就权倾天下了？",
+          "author": "",
+          "category": "",
+          "coverURL": "",
+          "bookURL": "https://www.zongheng.com/detail/1585295",
+          "description": "",
+          "badge": "05 我一侯府贱奴，怎么就权倾天下了？",
+          "source": "zongheng",
+          "sourceId": "1585295"
+        },
+        {
+          "rank": 16,
+          "title": "边军悍卒：被逐出家门后，我君临天下！",
+          "author": "",
+          "category": "",
+          "coverURL": "",
+          "bookURL": "https://www.zongheng.com/detail/1585126",
+          "description": "",
+          "badge": "06 边军悍卒：被逐出家门后，我君临天下！",
+          "source": "zongheng",
+          "sourceId": "1585126"
+        },
+        {
+          "rank": 17,
+          "title": "我给顶流当私人医生，她求我保密！",
+          "author": "",
+          "category": "",
+          "coverURL": "",
+          "bookURL": "https://www.zongheng.com/detail/1593989",
+          "description": "",
+          "badge": "07 我给顶流当私人医生，她求我保密！",
+          "source": "zongheng",
+          "sourceId": "1593989"
         },
         {
           "rank": 18,
@@ -1129,7 +1129,7 @@
           "coverURL": "",
           "bookURL": "https://www.zongheng.com/detail/408586",
           "description": "",
-          "badge": "20207",
+          "badge": "17708",
           "source": "zongheng",
           "sourceId": "408586"
         },
@@ -1141,9 +1141,135 @@
           "coverURL": "",
           "bookURL": "https://www.zongheng.com/detail/325639",
           "description": "",
-          "badge": "2503",
+          "badge": "3100",
           "source": "zongheng",
           "sourceId": "325639"
+        }
+      ]
+    },
+    {
+      "type": "ciweimao_rank",
+      "name": "刺猬猫人气榜",
+      "books": [
+        {
+          "rank": 1,
+          "title": "从阿兹卡班走出的反咒大师",
+          "author": "山雨欲来晚",
+          "category": "玄幻奇幻",
+          "coverURL": "https://e1.kuangxiangit.com/uploads/allimg/c260613/13-06-26140106-13270.jpg",
+          "bookURL": "https://wap.ciweimao.com/book/100488155",
+          "description": "",
+          "badge": "",
+          "source": "ciweimao",
+          "sourceId": "100488155"
+        },
+        {
+          "rank": 2,
+          "title": "现世打牌冠军来到决斗为尊的世界",
+          "author": "庭院过客",
+          "category": "都市青春",
+          "coverURL": "https://e1.kuangxiangit.com/uploads/allimg/c220613/13-06-22185726-74808.jpg",
+          "bookURL": "https://wap.ciweimao.com/book/100322997",
+          "description": "",
+          "badge": "",
+          "source": "ciweimao",
+          "sourceId": "100322997"
+        },
+        {
+          "rank": 3,
+          "title": "变身二游主角，但副作用是社死",
+          "author": "路过的人类w",
+          "category": "玄幻奇幻",
+          "coverURL": "https://e1.kuangxiangit.com/uploads/allimg/c261019/19-10-26164331-71557.jpg",
+          "bookURL": "https://wap.ciweimao.com/book/100506618",
+          "description": "",
+          "badge": "",
+          "source": "ciweimao",
+          "sourceId": "100506618"
+        },
+        {
+          "rank": 4,
+          "title": "崩铁之十倍奉还",
+          "author": "左滚右滚熊",
+          "category": "科幻无限",
+          "coverURL": "https://e1.kuangxiangit.com/uploads/defaultimg/c261027/27-10-26233234-48305.jpg",
+          "bookURL": "https://wap.ciweimao.com/book/100509611",
+          "description": "",
+          "badge": "",
+          "source": "ciweimao",
+          "sourceId": "100509611"
+        },
+        {
+          "rank": 5,
+          "title": "次元委托，别用自己当报酬了",
+          "author": "AKT",
+          "category": "科幻无限",
+          "coverURL": "https://e1.kuangxiangit.com/uploads/allimg/c261010/10-10-26164431-85860.jpg",
+          "bookURL": "https://wap.ciweimao.com/book/100506117",
+          "description": "",
+          "badge": "",
+          "source": "ciweimao",
+          "sourceId": "100506117"
+        },
+        {
+          "rank": 6,
+          "title": "神明神明睁开眼",
+          "author": "片羽威凤",
+          "category": "都市青春",
+          "coverURL": "https://e1.kuangxiangit.com/uploads/allimg/c261023/23-10-26212327-63021.jpg",
+          "bookURL": "https://wap.ciweimao.com/book/100508982",
+          "description": "",
+          "badge": "",
+          "source": "ciweimao",
+          "sourceId": "100508982"
+        },
+        {
+          "rank": 7,
+          "title": "烬途归凡",
+          "author": "狛悠良德",
+          "category": "玄幻奇幻",
+          "coverURL": "https://e1.kuangxiangit.com/uploads/allimg/c260927/27-09-26100309-45551.jpg",
+          "bookURL": "https://wap.ciweimao.com/book/100504706",
+          "description": "",
+          "badge": "",
+          "source": "ciweimao",
+          "sourceId": "100504706"
+        },
+        {
+          "rank": 8,
+          "title": "她们都是我的存档",
+          "author": "梦惊蝉",
+          "category": "玄幻奇幻",
+          "coverURL": "https://e1.kuangxiangit.com/uploads/allimg/c261026/26-10-26133615-25359.jpg",
+          "bookURL": "https://wap.ciweimao.com/book/100497217",
+          "description": "",
+          "badge": "",
+          "source": "ciweimao",
+          "sourceId": "100497217"
+        },
+        {
+          "rank": 9,
+          "title": "从地错开始的救世主",
+          "author": "懒羊羊大王",
+          "category": "科幻无限",
+          "coverURL": "https://e1.kuangxiangit.com/uploads/allimg/c260920/20-09-26222531-50713.jpg",
+          "bookURL": "https://wap.ciweimao.com/book/100503503",
+          "description": "",
+          "badge": "",
+          "source": "ciweimao",
+          "sourceId": "100503503"
+        },
+        {
+          "rank": 10,
+          "title": "九死凤女",
+          "author": "永动的03",
+          "category": "玄幻奇幻",
+          "coverURL": "https://e1.kuangxiangit.com/uploads/allimg/c261025/25-10-26100855-76240.jpg",
+          "bookURL": "https://wap.ciweimao.com/book/100509185",
+          "description": "",
+          "badge": "",
+          "source": "ciweimao",
+          "sourceId": "100509185"
         }
       ]
     }
